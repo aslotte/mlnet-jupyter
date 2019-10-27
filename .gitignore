@@ -11,3 +11,4 @@ src/tfhub_modules/d765412e8955a7067e9c0031f60783359e0e5c3f/saved_model.pb
 src/tfhub_modules/d765412e8955a7067e9c0031f60783359e0e5c3f/tfhub_module.pb
 src/tfhub_modules/d765412e8955a7067e9c0031f60783359e0e5c3f/variables/variables.data-00000-of-00001
 src/tfhub_modules/d765412e8955a7067e9c0031f60783359e0e5c3f/variables/variables.index
+src/resnet_v2_101_299.meta
