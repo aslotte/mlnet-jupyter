@@ -1,0 +1,37 @@
+﻿@page "/"
+
+@using ProductReviewSentimentBlazorApp.Services
+@using ProductReviewSentimentBlazorApp.ML.Models
+@inject SentimentService sentimentService
+
+<h3>How positive is the review?</h3>
+
+<div><textarea style="height:200px;width:500px" @bind="review" cols="45" placeholder="Enter product review"></textarea></div>
+<div><button class="btn btn-primary" @onclick="PredictReviewSentiment">Predict</button></div>
+<br/>
+<br/>
+
+@if (prediction != null && !prediction.IsPositive)
+{
+    <div>
+        <iframe src="https://giphy.com/embed/3o6fJ9RmPYIUN3rfHy" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/latenightseth-seth-meyers-lnsm-3o6fJ9RmPYIUN3rfHy"></a></p>
+    </div>
+}
+
+@if (prediction != null && prediction.IsPositive)
+{
+    <div>
+        <iframe src="https://giphy.com/embed/xT0Gqn0DBSzgsKyqs0" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/paleycenter--seth-meyers-late-night-with-paleylive-xT0Gqn0DBSzgsKyqs0"></a></p>
+    </div>
+}
+
+
+@code {
+    ReviewSentimentPrediction prediction;
+    string review;
+
+    private void PredictReviewSentiment()
+    {
+        prediction = sentimentService.Predict(review);
+    }
+}
