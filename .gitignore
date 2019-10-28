@@ -14,3 +14,8 @@ src/tfhub_modules/d765412e8955a7067e9c0031f60783359e0e5c3f/variables/variables.i
 src/resnet_v2_101_299.meta
 src/.ipynb_checkpoints/time-series forecasting-checkpoint.ipynb
 src/forecastingEngine.zip
+src/Deployment/ProductCategoryFunctionsApp/.vs/ProductCategoryFunctionsApp/v16/.suo
+src/Deployment/ProductCategoryFunctionsApp/.vs/ProductCategoryFunctionsApp/v16/Server/sqlite3/db.lock
+src/Deployment/ProductCategoryFunctionsApp/.vs/ProductCategoryFunctionsApp/v16/Server/sqlite3/storage.ide
+src/Deployment/ProductCategoryFunctionsApp/.vs/ProductCategoryFunctionsApp/v16/Server/sqlite3/storage.ide-shm
+src/Deployment/ProductCategoryFunctionsApp/.vs/ProductCategoryFunctionsApp/v16/Server/sqlite3/storage.ide-wal
