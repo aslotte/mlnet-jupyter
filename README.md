@@ -1,6 +1,7 @@
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="100" height="100">
- +
+ 
+ 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mldotnet.svg/1200px-Mldotnet.svg.png" width="100" height="100">
  </div>
 
