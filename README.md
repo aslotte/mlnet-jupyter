@@ -1,4 +1,4 @@
-![jupyter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png | width=100)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="100" height="100">
 
 #### Jupyter Notebook + ML.NET 
 As of MS Ignite 2019, ML.NET can now be run in a Jupyter Notebook. This provides tons of benefits, such as data exploration, summary statistics and increased sharability of code. 
