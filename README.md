@@ -12,5 +12,5 @@ The following ML Tasks are included:
 #### Getting started
 To run the notebooks locally:
 1. Install Jupyter Notebooks, e.g. via [Anaconda](https://www.anaconda.com/distribution/)
-2. Follow the [following instructions to install the C# Kernel]https://devblogs.microsoft.com/cesardelatorre/using-ml-net-in-jupyter-notebooks/) 
+2. Follow the [following instructions to install the C# Kernel](https://devblogs.microsoft.com/cesardelatorre/using-ml-net-in-jupyter-notebooks/) 
 3. Clone/Fork this repo and start the notebooks in e.g. JupyterLabs
