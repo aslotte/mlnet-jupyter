@@ -1,5 +1,5 @@
 #### Jupyter Notebook + ML.NET 
-As of MS Ignite 2019, ML.NET can now be run in a Jupyter Notebook. The provides tons of benefits, such as data exploration, summary statistics and increased sharability of code. 
+As of MS Ignite 2019, ML.NET can now be run in a Jupyter Notebook. This provides tons of benefits, such as data exploration, summary statistics and increased sharability of code. 
 
 The following repository aims to provide examples on how to get started with ML.NET in Jupyter Notebooks.
 
