@@ -100,3 +100,4 @@ src/Deployment/ProductReviewSentimentBlazorApp/ProductReviewSentimentBlazorApp/b
 src/Deployment/ProductReviewSentimentBlazorApp/ProductReviewSentimentBlazorApp/bin/Debug/netcoreapp3.0/runtimes/linux-x64/native/libCpuMathNative.so
 src/Deployment/ProductReviewSentimentBlazorApp/ProductReviewSentimentBlazorApp/bin/Debug/netcoreapp3.0/runtimes/linux-x64/native/libLdaNative.so
 src/Deployment/ProductReviewSentimentBlazorApp/ProductReviewSentimentBlazorApp/bin/Debug/netcoreapp3.0/ML/MLModel/sentimentClassifier.zip
+src/imageClassifier.zip
