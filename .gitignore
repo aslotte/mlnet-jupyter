@@ -102,3 +102,10 @@ src/Deployment/ProductReviewSentimentBlazorApp/ProductReviewSentimentBlazorApp/b
 src/Deployment/ProductReviewSentimentBlazorApp/ProductReviewSentimentBlazorApp/bin/Debug/netcoreapp3.0/ML/MLModel/sentimentClassifier.zip
 src/imageClassifier.zip
 src/DataFrame/sentimentClassifier.zip
+src/DataView/forecastingEngine.zip
+src/DataView/sentimentClassifier.zip
+src/DataView/productCategoryClassifier.zip
+src/DataView/.ipynb_checkpoints/time-series forecasting-checkpoint.ipynb
+src/DataView/.ipynb_checkpoints/multi-class classification-checkpoint.ipynb
+src/DataView/.ipynb_checkpoints/image classification-checkpoint.ipynb
+src/DataView/.ipynb_checkpoints/binary classification-checkpoint.ipynb
